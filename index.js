@@ -1,4 +1,3 @@
-// node indexedDB.js to run
 const express = require("express");
 
 const app = express();
